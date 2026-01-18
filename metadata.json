@@ -1,0 +1,8 @@
+{
+  "name": "OmniAI Infinity Hub",
+  "description": "A high-performance AI dashboard providing access to Gemini 3 series, high-quality image generation, and multi-model simulations with a futuristic UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
